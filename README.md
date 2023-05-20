@@ -1,4 +1,4 @@
-### Hi! 🌷✨
+### Hi! ✨
 
 - 🌸 I am a CS Engineering student who really likes pink. 
 - 💻 Currently, just studying (and sometimes programming).
