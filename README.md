@@ -1,6 +1,7 @@
 ### Hi! ✨
 
-I am a CS engineering student who really likes pink 🧁. 
+- I am a CS Engineering student who really likes pink 🌸. 
+- Currently, just studying (and sometimes programming) 💻.
 
 <!--
 **Valnhe/Valnhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
